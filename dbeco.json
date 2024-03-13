@@ -1,0 +1,44 @@
+{
+  "viewers": [
+    {
+      "nickname": "userName1",
+      "id": "userID1",
+      "level": 16,
+      "gold": 15698,
+      "goldSpent": 1800,
+      "skillPoints": 10,
+      "bossesDefeated": 4,
+      "dungeonsCompleted": 0,
+      "winsInEvents": 10,
+      "atk": 100,
+      "hp": 50,
+      "luck": 250,
+      "fightsWon": 424,
+      "fightsLost": 72
+    },
+    {
+      "nickname": "userName2",
+      "id": "userID2",
+      "level": 16,
+      "gold": 13728,
+      "goldSpent": 1049,
+      "skillPoints": 0,
+      "bossesDefeated": 0,
+      "dungeonsCompleted": 0,
+      "winsInEvents": 0,
+      "atk": 100,
+      "hp": 500,
+      "luck": 100,
+      "fightsWon": 10,
+      "fightsLost": 32
+    }
+  ],
+  "firstTo": [
+    {
+      "lvlFive": null,
+      "lvlTen": null,
+      "lvlFifteen": null,
+      "lvlTwenty": null
+    }
+  ]
+}

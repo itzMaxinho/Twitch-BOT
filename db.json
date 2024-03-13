@@ -1,0 +1,10 @@
+{
+  "saveID": [
+    {
+      "displayName": "userDisplayName",
+      "nickname": "userName",
+      "id": "userID"
+    }
+  ],
+  "players": []
+}

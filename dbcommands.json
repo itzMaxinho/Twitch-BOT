@@ -1,0 +1,22 @@
+{
+  "zdrowko": [
+    {
+      "counter": 264
+    }
+  ],
+  "taczki": [
+    {
+      "counter": 246
+    }
+  ],
+  "t3": [
+    "tier3Subscriber1",
+    "tier3Subscriber2",
+    "tier3Subscriber3"
+  ],
+  "open": [
+    {
+      "counter": 3
+    }
+  ]
+}
